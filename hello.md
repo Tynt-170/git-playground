@@ -1,6 +1,6 @@
 # Hello
 
-## HeLLO
+## Hello
 
 ### Hello
 
